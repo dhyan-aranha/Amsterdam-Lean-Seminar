@@ -1,1 +1,1 @@
-# AmsterdamLeanSeminar.github.io
+# Amsterdam Lean Seminar
